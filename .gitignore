@@ -1,0 +1,19 @@
+# Entornos virtuales
+.proyecto1/
+venv/
+env/
+ENV/
+
+# Caché de Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Modelos grandes
+models/*.pkl
+*.pkl
+
+# Otros
+.DS_Store
+*.log
+.ipynb_checkpoints/
