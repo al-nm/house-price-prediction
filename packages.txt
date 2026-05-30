@@ -1,0 +1,7 @@
+# Crea el archivo
+cat > packages.txt << EOF
+zlib1g-dev
+libjpeg-dev
+libpng-dev
+libtiff-dev
+EOF
